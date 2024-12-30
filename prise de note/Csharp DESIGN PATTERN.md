@@ -127,3 +127,10 @@ public void DoSomething() // Sa c'est la signature
 ```
 
 
+
+
+## Exo AbstractionFactory
+
+
+Lorsqu'on implémente une interface il faut obligatoirement avoir un comportement donnant (donc par exemple si on appel une interface avec 2 membre il faut obligatoirement utilisé les deux)
+

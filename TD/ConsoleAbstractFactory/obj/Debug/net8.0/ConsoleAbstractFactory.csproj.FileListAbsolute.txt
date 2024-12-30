@@ -1,0 +1,15 @@
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleAbstractFactory\bin\Debug\net8.0\ConsoleAbstractFactory.exe
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleAbstractFactory\bin\Debug\net8.0\ConsoleAbstractFactory.deps.json
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleAbstractFactory\bin\Debug\net8.0\ConsoleAbstractFactory.runtimeconfig.json
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleAbstractFactory\bin\Debug\net8.0\ConsoleAbstractFactory.dll
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleAbstractFactory\bin\Debug\net8.0\ConsoleAbstractFactory.pdb
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleAbstractFactory\obj\Debug\net8.0\ConsoleAbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleAbstractFactory\obj\Debug\net8.0\ConsoleAbstractFactory.AssemblyInfoInputs.cache
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleAbstractFactory\obj\Debug\net8.0\ConsoleAbstractFactory.AssemblyInfo.cs
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleAbstractFactory\obj\Debug\net8.0\ConsoleAbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleAbstractFactory\obj\Debug\net8.0\ConsoleAbstractFactory.sourcelink.json
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleAbstractFactory\obj\Debug\net8.0\ConsoleAbstractFactory.dll
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleAbstractFactory\obj\Debug\net8.0\refint\ConsoleAbstractFactory.dll
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleAbstractFactory\obj\Debug\net8.0\ConsoleAbstractFactory.pdb
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleAbstractFactory\obj\Debug\net8.0\ConsoleAbstractFactory.genruntimeconfig.cache
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleAbstractFactory\obj\Debug\net8.0\ref\ConsoleAbstractFactory.dll
