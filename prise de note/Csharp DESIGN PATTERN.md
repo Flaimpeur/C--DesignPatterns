@@ -134,3 +134,29 @@ public void DoSomething() // Sa c'est la signature
 
 Lorsqu'on implémente une interface il faut obligatoirement avoir un comportement donnant (donc par exemple si on appel une interface avec 2 membre il faut obligatoirement utilisé les deux)
 
+
+
+## Chapitre 5 Le pattern builder
+
+### 5.1 Description
+
+objectif du program.cs : 
+ - avoir un objet builder qui est capable de construire des liasse de doc, une liasse de doc html ou pdf
+
+
+
+
+### Classe Abstraite
+
+- Une **classe abstraite** est une classe qui sert de **modèle** ou de **plan** pour d'autres classes.
+- Elle **ne peut pas être instanciée** directement (vous ne pouvez pas créer d'objet à partir d'elle).
+- Elle contient des **méthodes abstraites** (méthodes sans corps, juste leur signature), que les classes qui héritent d'elle doivent obligatoirement implémenter.
+- Une classe abstraite peut aussi contenir des méthodes **concrètes** (déjà implémentées) et des attributs.
+
+### Classe Concrète
+
+- Une **classe concrète** est une classe normale que vous pouvez **instancier** (créer des objets à partir d'elle).
+- Elle fournit une implémentation complète pour toutes ses méthodes.
+- Une classe concrète peut hériter d'une classe abstraite et doit alors implémenter toutes les méthodes abstraites de la classe parente.
+
+
