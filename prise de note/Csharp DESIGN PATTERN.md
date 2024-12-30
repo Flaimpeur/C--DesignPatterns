@@ -160,3 +160,29 @@ objectif du program.cs :
 - Une classe concrète peut hériter d'une classe abstraite et doit alors implémenter toutes les méthodes abstraites de la classe parente.
 
 
+
+Composition : Mécanisme qui permet a une classe de contenir une instance de cette même classe d'une autre
+
+
+
+
+## Chapitre 7 
+
+### 7.1 Description
+
+- Création de nouveaux objets par duplication d'objets existants
+- On les appelle Prototype
+- Capacité de clonage
+
+### 7.2 
+
+
+
+
+## Chapitre 8 Le pattern Singleton
+
+### 8.1 Description :
+
+- Le pattern Singleton permet d'assurer qu'une classe ne possède qu'une seule instance au cours de l'exécution du programme
+- Une méthode de classe unique qui retourne cette instance
+

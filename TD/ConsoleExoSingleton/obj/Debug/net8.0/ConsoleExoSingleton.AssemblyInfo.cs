@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleExo2Builder")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleExoSingleton")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b2b45b7438c4a73ca1b8c8633eff77395533d67")]
-[assembly: System.Reflection.AssemblyProductAttribute("ConsoleExo2Builder")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ConsoleExo2Builder")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("ConsoleExoSingleton")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ConsoleExoSingleton")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.

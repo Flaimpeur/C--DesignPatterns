@@ -9,7 +9,7 @@ Automobile[] autos = new Automobile[nbAutos];
 Scooter[] scooters = new Scooter[nbScooters];
 Console.WriteLine("Voulez-vous utiliser " +
     "des v�hicules �lectriques (1) ou � essence (2) :");
-string choix = Console.ReadLine();
+var choix = Console.ReadLine();
 if (choix == "1")
 {
     fabrique = new FabriqueVehiculeElectricite();

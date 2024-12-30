@@ -1,10 +1,11 @@
+using System;
+
+namespace Builder;
+
 public abstract class Liasse
 {
-    protected IList<string> documents =  new List<string>();
+    protected IList<string> contenu = new List<string>(); // List<T> est un type generique
 
-    public void ajouteDocument(string document)
-    {
-        documents.Add(document);
-    }
+    public abstract void ajouteDocument(string document);
     public abstract void imprime();
 }

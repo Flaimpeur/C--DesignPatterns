@@ -1,0 +1,15 @@
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExo2Builder\bin\Debug\net8.0\ConsoleExo2Builder.exe
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExo2Builder\bin\Debug\net8.0\ConsoleExo2Builder.deps.json
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExo2Builder\bin\Debug\net8.0\ConsoleExo2Builder.runtimeconfig.json
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExo2Builder\bin\Debug\net8.0\ConsoleExo2Builder.dll
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExo2Builder\bin\Debug\net8.0\ConsoleExo2Builder.pdb
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExo2Builder\obj\Debug\net8.0\ConsoleExo2Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExo2Builder\obj\Debug\net8.0\ConsoleExo2Builder.AssemblyInfoInputs.cache
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExo2Builder\obj\Debug\net8.0\ConsoleExo2Builder.AssemblyInfo.cs
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExo2Builder\obj\Debug\net8.0\ConsoleExo2Builder.csproj.CoreCompileInputs.cache
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExo2Builder\obj\Debug\net8.0\ConsoleExo2Builder.sourcelink.json
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExo2Builder\obj\Debug\net8.0\ConsoleExo2Builder.dll
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExo2Builder\obj\Debug\net8.0\refint\ConsoleExo2Builder.dll
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExo2Builder\obj\Debug\net8.0\ConsoleExo2Builder.pdb
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExo2Builder\obj\Debug\net8.0\ConsoleExo2Builder.genruntimeconfig.cache
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExo2Builder\obj\Debug\net8.0\ref\ConsoleExo2Builder.dll
