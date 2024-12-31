@@ -228,3 +228,53 @@ Composition : Mécanisme qui permet a une classe de contenir une instance de cet
 - Adapter : adapte l'interface pour que l'objet puisse etre utilisé par le client
 - Adapte : introduit les methodes dont l'interface doit être adaptee pour correspondre a "Interface".
 
+
+
+## Chapitre 11 Le pattern Bridge
+
+### 11.1 Description
+
+- Séparer l'aspect d'implémentation d'un objet de son aspect représentation et d'interface
+
+### Exemple 
+
+- Le pattern Bridge sépare une grosse classe en deux parties qui peuvent être développées indépendamment.
+
+- Exemple avec une télécommande TV :
+	- Abstraction : La télécommande (les boutons volumes, chaines, ect)
+	- Implémentation: Les marques de TV (Sony, samsung, ect)
+
+```java
+// Abstraction
+class Telecommande{
+	protected TV tv; // Le pont vers l'implementation
+
+	public void MonterLeSon(){
+		tv.MonterLeSon();
+	}
+}
+
+// Implementation
+interface TV{
+	void MonterLeSon();
+}
+
+class TVSony implements TV{
+	public void MonterLeSon(){
+		System.out.println("Sony: Monter le son");
+	}
+}
+
+class TVSamsung implements TV {
+	public void MonterLeSon(){
+		System.out.println("Samsung: Monter le son");
+	}
+}
+```
+
+Avantage :
+- On peut changer la marque de la TV sans changer la télécommande
+- On peut modifier la télécommande sans toucher au code des TVs
+- On peut ajouter de nouvelles marques de TV
+
+C'est comme si on avait une prise universelle qui fonctionne avec différentes prises électriques, l'interface est la même, mais l'implémentation est différentes selon le pays.

@@ -2,9 +2,16 @@ public class DocumentHtml : IDocument
 {
     private string _contenu;
 
-    public void setContenu(string contenu)
+    public string contenu
     {
-        _contenu = contenu;
+        protected get
+        {
+            return _contenu;
+        }
+        set
+        {
+            _contenu = value;
+        }
     }
 
     public void dessin()

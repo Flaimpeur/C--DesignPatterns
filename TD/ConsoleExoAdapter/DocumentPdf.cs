@@ -1,23 +1,24 @@
 public class DocumentPdf : IDocument
 {
-    private string _contenu;
-    private ComposantPdf outilPdf;
+    protected ComposantPdf outilPdf = new ComposantPdf();
 
-    public void setContenu(string contenu)
+    public string contenu
     {
-        _contenu = contenu;
-        this.outilPdf.pdfFixeContenu(contenu);
+        set
+        {
+            outilPdf.pdfFixeContenu(value);
+        }
     }
 
     public void dessin()
     {
-        this.outilPdf.pdfPreparerAffichage();
-        this.outilPdf.pdfRafraichir();
-        this.outilPdf.pdfTermineAffichage();
+        outilPdf.pdfPreparerAffichage();
+        outilPdf.pdfRafraichir();
+        outilPdf.pdfTermineAffichage();
     }
 
     public void imprime()
     {
-        this.outilPdf.pdfEnvoieImprimante();
+        outilPdf.pdfEnvoieImprimante();
     }
 }

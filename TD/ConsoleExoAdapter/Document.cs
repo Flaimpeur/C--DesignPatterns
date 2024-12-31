@@ -1,6 +1,6 @@
 public interface IDocument
 {
-    public void setContenu(string contenu);
-    public void dessin();
-    public void imprime();
+    string contenu {set;}
+    void dessin();
+    void imprime();
 }
