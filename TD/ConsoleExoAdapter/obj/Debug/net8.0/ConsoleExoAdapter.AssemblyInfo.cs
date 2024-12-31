@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAbstractFactory")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleExoAdapter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("ConsoleAbstractFactory")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAbstractFactory")]
+[assembly: System.Reflection.AssemblyProductAttribute("ConsoleExoAdapter")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ConsoleExoAdapter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.

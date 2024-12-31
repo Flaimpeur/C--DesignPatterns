@@ -174,9 +174,22 @@ Composition : Mécanisme qui permet a une classe de contenir une instance de cet
 - On les appelle Prototype
 - Capacité de clonage
 
-### 7.2 
 
 
+![[Pasted image 20241231092233.png]]
+
+
+### 7.4 Domaine d'utilisation
+
+- Le design pattern prototype permet de créer des copies d'objets existant sans rendre le code dépendant de leur classes concrètes. Au lieu de créer un objet a partir de zéro, on clone un objet existant (le prototype) et on le modifie si besoin.
+- C'est comme faire une photocopie d'un document : on copie l'original et on peut modifier la copie
+- L'avantage principale est la création d'objet complexe simplifiées.
+
+- Cas d'usage :
+    - Objets avec de nombreuses configuration (éditeur graphique : forme géométriques)
+    - En jeux vidéos, création d'ennemis et leur variable en grande quantité
+    - Création d'une configuration par défaut dans un jeu/logiciel (permet de restaurer le défaut rapidement et de configurer a nouveau)
+    - Pour éviter la création d'objets systèmes couteux ; connexion réseaux, ressources partagées ....
 
 
 ## Chapitre 8 Le pattern Singleton
@@ -185,4 +198,33 @@ Composition : Mécanisme qui permet a une classe de contenir une instance de cet
 
 - Le pattern Singleton permet d'assurer qu'une classe ne possède qu'une seule instance au cours de l'exécution du programme
 - Une méthode de classe unique qui retourne cette instance
+
+
+
+## Chapitre 9 Introduction aux pattners de structuration
+
+### 9.1 Présentation
+
+- L'objectif est de facilité l'indépendance de l'interface d'un objet vis a vie de son implémentation. Dans le cas d'un ensemble d'objets, il s'agit aussi de rendre cette interface indépendante de la hiérarchie des classes et de la composition des objets.
+- Les patterns de structuration encapsulent la composition des objets (augmentation du niveau d'abstraction)
+- Précédemment les patterns de création encapsulaient la création des objets.
+
+
+## Chapitre 10
+### 10.1 Description
+
+- Convertir l'interface d'une classe existante en une interface attendu
+
+### 10.2 Exemple
+
+![[Pasted image 20241231110336.png]]
+
+
+### Adapter
+
+#### Les participants :
+- "Interface" : introduit la signature des methodes que l'objet "Adapter" doit implementer
+- Client : interagit avec les objets implementant l'interface "Interface"
+- Adapter : adapte l'interface pour que l'objet puisse etre utilisé par le client
+- Adapte : introduit les methodes dont l'interface doit être adaptee pour correspondre a "Interface".
 

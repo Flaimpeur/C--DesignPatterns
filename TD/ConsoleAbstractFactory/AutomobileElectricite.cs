@@ -9,7 +9,7 @@ public class AutomobileElectricite : Automobile
   public override void afficheCaracteristiques()
   {
     Console.WriteLine(
-      "Automobile électrique de modèle : " + modele + 
+      "Automobile ï¿½lectrique de modï¿½le : " + modele + 
       " de couleur : " + couleur + " de puissance : " +
       puissance + " d'espace : " + espace);
   }
