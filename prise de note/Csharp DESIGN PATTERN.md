@@ -245,18 +245,17 @@ Composition : Mécanisme qui permet a une classe de contenir une instance de cet
 	- Implémentation: Les marques de TV (Sony, samsung, ect)
 
 ```java
+// Implementation
+interface TV{
+	void MonterLeSon();
+}
 // Abstraction
 class Telecommande{
 	protected TV tv; // Le pont vers l'implementation
 
-	public void MonterLeSon(){
+	public void MonterLeVolume(){
 		tv.MonterLeSon();
 	}
-}
-
-// Implementation
-interface TV{
-	void MonterLeSon();
 }
 
 class TVSony implements TV{
