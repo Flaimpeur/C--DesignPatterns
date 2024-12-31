@@ -277,3 +277,30 @@ Avantage :
 - On peut ajouter de nouvelles marques de TV
 
 C'est comme si on avait une prise universelle qui fonctionne avec différentes prises électriques, l'interface est la même, mais l'implémentation est différentes selon le pays.
+
+### Schema UML
+
+![[Pasted image 20241231152914.png]]
+
+### Schema générique
+
+![[Pasted image 20241231154440.png]]
+
+
+
+## Chapitre 13 Le pattern Decorator
+
+### 13.1 Description
+
+
+- Le but du pattern est d'ajouter dynamiquement des fonctionnalités supplémentaires à un objet
+- Aucune modification de l'interface de l'objet
+- Transparent vis-à-vis des clients
+- Une alternative à la création d'une sous-classe pour enrichir un objet.
+
+
+#### Ma compréhension de la question
+
+![[Pasted image 20241231161703.png]]
+
+
