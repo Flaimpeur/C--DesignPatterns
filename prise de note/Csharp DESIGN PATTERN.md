@@ -213,7 +213,8 @@ Composition : Mécanisme qui permet a une classe de contenir une instance de cet
 ## Chapitre 10
 ### 10.1 Description
 
-- Convertir l'interface d'une classe existante en une interface attendu
+- Convertir l'interface d'une classe existante en une interface attendu par ses clients (afin qu'ils puissent travailler ensemble)
+- Autrement dit c'est fournir une nouvelle interface pour répondre aux besoin de clients.
 
 ### 10.2 Exemple
 
@@ -353,3 +354,6 @@ C'est comme si on avait une prise universelle qui fonctionne avec différentes p
 ### 19.1 Description
 
 - Command permet de transformer une requête en un objet, ce qui facilite les opérations comme les annulations ou les "retour en arrière", ou encore les mises en file d'attente des demandes et leur suivi.
+
+
+membre concret : Method avec plus qu'une signature

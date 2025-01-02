@@ -14,14 +14,14 @@ public class Utilisateur
 
         Console.WriteLine("Vous êtes : " +
             "un particulier (1) ou un professionnel (2) ? :");
-
+        var choix = Console.ReadLine();
         if (choix == "1")
         {
-            generationDoc = new GenerationDocParticulier() + ", " + normeSecurite + ", " + logo;
+            generationDoc = new GenerationDocParticulier(); //+ ", " + normeSecurite + ", " + logo;
         }
         else
         {
-            generationDoc = new GenerationDocPro() + ", " + normeSecurite + ", " + logo;
+            generationDoc = new GenerationDocPro(); //+ ", " + normeSecurite + ", " + logo;
         }
     }
 }

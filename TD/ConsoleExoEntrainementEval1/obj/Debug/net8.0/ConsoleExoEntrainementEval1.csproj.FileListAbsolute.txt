@@ -1,0 +1,15 @@
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExoEntrainementEval1\bin\Debug\net8.0\ConsoleExoEntrainementEval1.exe
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExoEntrainementEval1\bin\Debug\net8.0\ConsoleExoEntrainementEval1.deps.json
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExoEntrainementEval1\bin\Debug\net8.0\ConsoleExoEntrainementEval1.runtimeconfig.json
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExoEntrainementEval1\bin\Debug\net8.0\ConsoleExoEntrainementEval1.dll
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExoEntrainementEval1\bin\Debug\net8.0\ConsoleExoEntrainementEval1.pdb
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExoEntrainementEval1\obj\Debug\net8.0\ConsoleExoEntrainementEval1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExoEntrainementEval1\obj\Debug\net8.0\ConsoleExoEntrainementEval1.AssemblyInfoInputs.cache
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExoEntrainementEval1\obj\Debug\net8.0\ConsoleExoEntrainementEval1.AssemblyInfo.cs
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExoEntrainementEval1\obj\Debug\net8.0\ConsoleExoEntrainementEval1.csproj.CoreCompileInputs.cache
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExoEntrainementEval1\obj\Debug\net8.0\ConsoleExoEntrainementEval1.sourcelink.json
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExoEntrainementEval1\obj\Debug\net8.0\ConsoleExoEntrainementEval1.dll
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExoEntrainementEval1\obj\Debug\net8.0\refint\ConsoleExoEntrainementEval1.dll
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExoEntrainementEval1\obj\Debug\net8.0\ConsoleExoEntrainementEval1.pdb
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExoEntrainementEval1\obj\Debug\net8.0\ConsoleExoEntrainementEval1.genruntimeconfig.cache
+C:\Users\Flaimpeur\Documents\Cours Isitech\ESI\4emeAnnee\C# Design\ExoGit\TD\ConsoleExoEntrainementEval1\obj\Debug\net8.0\ref\ConsoleExoEntrainementEval1.dll
