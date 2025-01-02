@@ -346,3 +346,10 @@ C'est comme si on avait une prise universelle qui fonctionne avec différentes p
 
 - Une chaine d'objet doit gérer une requête selon un ordre défini dynamiquement
 - La façon dont une chaine d'objets gère une requête ne doit pas être connue par ses clients.
+
+
+## Chapitre 19 Command pattern
+
+### 19.1 Description
+
+- Command permet de transformer une requête en un objet, ce qui facilite les opérations comme les annulations ou les "retour en arrière", ou encore les mises en file d'attente des demandes et leur suivi.
