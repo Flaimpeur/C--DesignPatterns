@@ -304,3 +304,45 @@ C'est comme si on avait une prise universelle qui fonctionne avec différentes p
 ![[Pasted image 20241231161703.png]]
 
 
+#### Correction 
+
+![[Pasted image 20250102092736.png]]
+
+
+### 13.4 Domaines d'application
+
+![[Pasted image 20250102093900.png]]
+
+- Ajout dynamique de fonctionnalités
+	- Idéal pour les systèmes nécessitant l'ajout de fonctionnalités à un objet sans modification son interface, préservant ainsi la compatibilité avec les clients existants. Cette approche permet une extension transparente des capacités de l'objet.
+- Gestion dynamique des fonctionnalités
+	- Parfaitement adapté aux systèmes nécessitant la possibilité de retirer des fonctionnalités de manière dynamique. Cette flexibilité permet une adaptation en temps réel aux besoins changeants du système.
+- Alternative à l'Héritage Complexe
+	- Solution élégante lorsque l'extension par héritage devient impraticable, particulièrement dans les cas où la hiérarchie des classes est déjà complexe. Le pattern offre une approche plus flexible et maintenant que l'héritage traditionnel.
+
+
+## Chapitre 17 Introduction au patterns de comportement
+
+
+### 17.1 Description
+
+- Objectif : fournir des solutions pour distribuer les traitements et les algorithmes entre les objets.
+
+
+## Chapitre 18 Le pattern Chain of Responsibility
+
+### 18.1 Description
+- Construit une chaine d'objets telle que si un objet de la chaine ne peut pas répondre à la requête, il puisse la transmettre à son successeur jusqu'à ce que l'un des objets répondent.
+![[Pasted image 20250102095859.png]]
+
+
+### 18.2 Exemple
+
+- Catalogue de véhicule 
+- Description de véhicule
+- Liaison d'objet en allant du plus spécifique (véhicule) au moins spécifique (description par défaut)
+
+### 18.4 Domaines d'application
+
+- Une chaine d'objet doit gérer une requête selon un ordre défini dynamiquement
+- La façon dont une chaine d'objets gère une requête ne doit pas être connue par ses clients.
