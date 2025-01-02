@@ -1,5 +1,5 @@
 
-## Chapitre 1
+## Chapitre 1 Introduction aux pattern de conception
 
 ### 1.1              :
 
@@ -113,7 +113,7 @@ public class Program {
 }
 ```
 
-## Chapitre 4
+## Chapitre 4 Le pattern Abstract factory
 
 ### 4.1 description
 
@@ -143,7 +143,10 @@ Lorsqu'on implémente une interface il faut obligatoirement avoir un comportemen
 objectif du program.cs : 
  - avoir un objet builder qui est capable de construire des liasse de doc, une liasse de doc html ou pdf
 
-
+- **Objectif du Pattern Builder :**
+	- Séparer la construction d'un objet complexe de sa représentation
+	- Permettre la création d'objets complexes étape par étape
+	- Masquer la complexité de l'implémentation au client
 
 
 ### Classe Abstraite
@@ -161,12 +164,12 @@ objectif du program.cs :
 
 
 
-Composition : Mécanisme qui permet a une classe de contenir une instance de cette même classe d'une autre
+**Composition :** Mécanisme qui permet a une classe de contenir une instance de cette même classe d'une autre
 
 
 
 
-## Chapitre 7 
+## Chapitre 7 Le pattern Prototype
 
 ### 7.1 Description
 
@@ -210,7 +213,7 @@ Composition : Mécanisme qui permet a une classe de contenir une instance de cet
 - Précédemment les patterns de création encapsulaient la création des objets.
 
 
-## Chapitre 10
+## Chapitre 10 Le pattern Adapter
 ### 10.1 Description
 
 - Convertir l'interface d'une classe existante en une interface attendu par ses clients (afin qu'ils puissent travailler ensemble)
@@ -356,4 +359,7 @@ C'est comme si on avait une prise universelle qui fonctionne avec différentes p
 - Command permet de transformer une requête en un objet, ce qui facilite les opérations comme les annulations ou les "retour en arrière", ou encore les mises en file d'attente des demandes et leur suivi.
 
 
-membre concret : Method avec plus qu'une signature
+
+
+
+ Membre concret  : Method avec plus qu'une signature
