@@ -1,5 +1,5 @@
 public class RIBPro : RIB
 {
-    public RIBPro(string ribPro) : base(rib){}
+    public RIBPro(string ribPro) : base(ribPro){}
 
 }
